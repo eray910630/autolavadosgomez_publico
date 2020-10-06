@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaAutolavadoGomez", "SistemaAutolavadoGomez\SistemaAutolavadoGomez.csproj", "{B73646DA-A1E0-47EF-888D-E663BABA41F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{5912EB2A-5094-4461-81A2-4E3F7693FAC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\CapaNegocio.csproj", "{8478274A-42A4-45CA-A2A9-10762F6DD8A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "CapaPresentacion\CapaPresentacion.csproj", "{88D25553-C53D-40DB-8249-AE4032D18795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73646DA-A1E0-47EF-888D-E663BABA41F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73646DA-A1E0-47EF-888D-E663BABA41F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73646DA-A1E0-47EF-888D-E663BABA41F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73646DA-A1E0-47EF-888D-E663BABA41F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5912EB2A-5094-4461-81A2-4E3F7693FAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5912EB2A-5094-4461-81A2-4E3F7693FAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5912EB2A-5094-4461-81A2-4E3F7693FAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5912EB2A-5094-4461-81A2-4E3F7693FAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8478274A-42A4-45CA-A2A9-10762F6DD8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8478274A-42A4-45CA-A2A9-10762F6DD8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8478274A-42A4-45CA-A2A9-10762F6DD8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8478274A-42A4-45CA-A2A9-10762F6DD8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D25553-C53D-40DB-8249-AE4032D18795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D25553-C53D-40DB-8249-AE4032D18795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D25553-C53D-40DB-8249-AE4032D18795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D25553-C53D-40DB-8249-AE4032D18795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

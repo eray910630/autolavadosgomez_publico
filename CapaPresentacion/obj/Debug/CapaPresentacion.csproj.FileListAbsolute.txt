@@ -1,0 +1,56 @@
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBuscarPorFecha.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.frmBusquedaNombre.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCochesDemorados.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGanaciaPorFecha.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGananciaPorFecha.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMatricula.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNumeroTelefono.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmServicios.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoLavados.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoServicio.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRepoteFactura.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\RdlCompile.cache
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\RdlCompile.compiled
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBuscarPorFecha.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.frmBusquedaNombre.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCochesDemorados.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGanaciaPorFecha.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGananciaPorFecha.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMatricula.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNumeroTelefono.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmServicios.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoLavados.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoServicio.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRepoteFactura.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

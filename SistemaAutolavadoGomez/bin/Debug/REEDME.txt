@@ -1,0 +1,4 @@
+Esta aplicacion realizada por Eray Autolavados Gomez version 1.0
+
+Este sistema la idea es para tener un control detallado de los coches que solicitan el servicio en dicha instalacion, registras coches, puedes hacer una busqueda detallada por cada campo q desee, en menu de registro puedes buscar por matricula es lo mas comodo en caso q se olvide el numero del cliente o nombre, con instertar la matricula ya tienes.
+En el menu estadisticas puedes ver los ingresos de coches tanto diario mensual u anual, puedes ver la cantidad real del dinero que realizastes en el dia, la busqueda de trabajadores es por id en principio tienes dos indices para buscar el 1 y el 2, todo depende cuando registre un coche y pongas el trabajador q lo atendio, puedes ver los coches q se demoran en fregar, en fin espero q difrute de la app

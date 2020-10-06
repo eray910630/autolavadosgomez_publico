@@ -1,0 +1,14 @@
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaNegocio\obj\Debug\CapaNegocio.pdb

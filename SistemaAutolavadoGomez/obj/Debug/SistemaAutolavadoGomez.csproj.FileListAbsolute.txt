@@ -1,0 +1,34 @@
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\SistemaAutolavadoGomez.exe.config
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\SistemaAutolavadoGomez.exe
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\SistemaAutolavadoGomez.pdb
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaPresentacion.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaNegocio.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaDatos.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaPresentacion.pdb
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaNegocio.pdb
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaDatos.pdb
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.csprojResolveAssemblyReference.cache
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.Form1.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.Properties.Resources.resources
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.csproj.GenerateResource.Cache
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.exe
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\SistemaAutolavadoGomez.exe.config
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\SistemaAutolavadoGomez.exe.manifest
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\SistemaAutolavadoGomez.application
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\SistemaAutolavadoGomez.exe
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\SistemaAutolavadoGomez.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaPresentacion.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaNegocio.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaDatos.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaPresentacion.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaNegocio.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\bin\Debug\CapaDatos.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.csprojResolveAssemblyReference.cache
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.Form1.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.Properties.Resources.resources
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.csproj.GenerateResource.Cache
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.exe.manifest
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.application
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.exe
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\SistemaAutolavadoGomez\obj\Debug\SistemaAutolavadoGomez.pdb

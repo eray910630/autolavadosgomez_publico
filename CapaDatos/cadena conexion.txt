@@ -1,0 +1,2 @@
+private static string nombre = Dns.GetHostName();
+        private static string cn = "Data Source=" + nombre + ";Initial Catalog=dbautolavadosgomez;Integrated Security=True";

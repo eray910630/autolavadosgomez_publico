@@ -1,0 +1,10 @@
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaDatos\bin\Debug\CapaDatos.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaDatos\obj\Debug\CapaDatos.dll
+E:\[7] SOLUCIONES\C#\Aplicaciones\SistemaAutolavadoGomez\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ERAY-MERLYN\Desktop\SistemaAutolavadoGomez\CapaDatos\obj\Debug\CapaDatos.pdb
